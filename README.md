@@ -98,3 +98,7 @@ MyApplication.getInstance().exit();
 ## 参考
 [Android开发中如何结束所有的Activity](http://java--hhf.iteye.com/blog/1826880)
 
+## 交个朋友
+欢迎右上角Start/Fork！
+你也可以关注[我的博客](http://lns666.me/)，和我做朋友。
+
